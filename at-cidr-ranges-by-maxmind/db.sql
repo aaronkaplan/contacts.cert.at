@@ -52,6 +52,4 @@ CREATE INDEX idx_networks_represented_country_geoname_id on networks(represented
 CREATE INDEX idx_networks_is_anonymous_proxy on networks(is_anonymous_proxy);
 CREATE INDEX idx_networks_is_satellite_provider on networks(is_satellite_provider);
 
-COPY networks FROM '/tmp/networksv4.csv' WITH CSV HEADER;
-COPY networks FROM '/tmp/networksv6.csv' WITH CSV HEADER;
 
