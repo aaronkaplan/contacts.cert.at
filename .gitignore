@@ -1,0 +1,6 @@
+at-cidr-ranges-by-maxmind/tmp/*
+at-cidr-ranges-by-maxmind/networksv4.csv
+at-cidr-ranges-by-maxmind/networksv6.csv
+at-cidr-ranges-by-maxmind/at-ranges-v6.txt
+at-cidr-ranges-by-maxmind/at-ranges.txt
+
