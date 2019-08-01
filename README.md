@@ -54,23 +54,23 @@ However, if you plan to use this service in your (heavy load) log file crunching
 
 # Folder structure
 
-  *  at-cidr-ranges-by-maxmind ..... netblocks / cidr ranges extraction from the MaxMind DB.
+  *  [at-cidr-ranges-by-maxmind/](at-cidr-ranges-by-maxmind) ..... netblocks / cidr ranges extraction from the MaxMind DB.
   *  asns-by-maxmind ..... netblocks / cidr ranges extraction from the MaxMind DB.
 
-# How to adapt to your location
+# How to adapt to your location/country
 
-Pleaes note that the files contain some variables which you may replace to filter / extract data for your country. Simply ``grep -r "AT"`` for places to adapt.
+Please note that the files contain some variables which you may replace to filter / extract data for your country. Simply ``grep -r "AT"`` for places to adapt.
 
 # Author & Comments
 
-The first version of this service was written by me, Aaron Kaplan <aaron@lo-res.org> in my spare time on a train ride from Vienna to Vorarlberg, 2012. 
+The first version of this service was written by me, Aaron Kaplan <aaron@lo-res.org> in my spare time on a train ride on the way to my holidays, 2012. 
 All rights reserved. Please send any questions regarding this code to my email address above.
 
 The second version was re-written via the CEF-2016-3 grant. See acknowledgements below.
 
 # License
 
-The standard 3-clause BSD license applies, see the README.txt file for details.
+The standard 3-clause BSD license applies, see the [LICENSE.txt](LICENSE.txt) file for details.
 
 # Acknowledgements
 
