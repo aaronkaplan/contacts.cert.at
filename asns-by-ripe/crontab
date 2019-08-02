@@ -1,0 +1,5 @@
+# This is an example crontab entry for running the scripts
+#   replace $path with where this script is installed for you
+#
+# m h dom mon dow user	command
+27 0	* * *	www-data    ( cd $path & ./make.sh )
