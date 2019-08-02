@@ -2,4 +2,4 @@
 
 ./fetch.sh
 ./extract.sh
-./move_asns_to_web.sh
+./move_to_web.sh

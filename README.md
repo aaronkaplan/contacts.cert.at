@@ -55,7 +55,9 @@ However, if you plan to use this service in your (heavy load) log file crunching
 # Folder structure
 
   *  [at-cidr-ranges-by-maxmind/](at-cidr-ranges-by-maxmind) ..... netblocks / cidr ranges extraction from the MaxMind DB.
-  *  asns-by-maxmind ..... netblocks / cidr ranges extraction from the MaxMind DB.
+  *  [asns-by-maxmind/](asns-by-maxmind) ..... netblocks / cidr ranges extraction from the MaxMind DB.
+  *  [cidr-ranges-by-ripe/](cidr-ranges-by-ripe) ..... netblocks / cidr ranges extraction according to RIPE stat.
+  *  [asns-by-ripe/](asns-by-ripe) ..... netblocks / cidr ranges extraction according to RIPE stat.
 
 # How to adapt to your location/country
 

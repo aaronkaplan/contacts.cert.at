@@ -1,12 +1,11 @@
 #!/bin/bash
 
-url="https://stat.ripe.net/data/country-resource-list/data.json?resource="
-DATE=$(date  "+%Y-%m-%d")
+. ./common.sh
 
-countries=AT
+url="https://stat.ripe.net/data/country-resource-list/data.json?resource="
 
 for cc in $countries; do
-    output="${DATE}-${cc}-ripe-asn.json"
+    output="${DATE}-${cc}-ripe-country-resource-list.json"
     wget --quiet -O $output ${url}${cc} 
 done
 

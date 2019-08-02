@@ -4,6 +4,11 @@ at-cidr-ranges-by-maxmind/networksv6.csv
 at-cidr-ranges-by-maxmind/at-ranges-v6.txt
 at-cidr-ranges-by-maxmind/at-ranges.txt
 
+asns-by-ripe/*-ripe-country-resource-list.json
+asns-by-ripe/*-ripe-asn.txt
+asns-by-ripe/*-ripe-ipv4.txt
+asns-by-ripe/*-ripe-ipv6.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
