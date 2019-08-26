@@ -1,0 +1,813 @@
+<!DOCTYPE html> <html lang="en"> <!-- Content Copyright SEI ROP2 EWP -->
+<!-- Page generated 2019-08-13 08:49:43 on server 1 by CommonSpot  Build 10.5.1.160 (2019-02-07 14:29:35) -->
+<!-- JavaScript & DHTML Code Copyright &copy; 1998-2019, PaperThin, Inc. All Rights Reserved. --> <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta class="swiftype" data-type="string"  name="Description" id="Description" content="Learn about computer security incident response teams (CSIRTs) supported by the SEI and about the support the SEI provides." />
+<meta name="Generator" id="Generator" content="CommonSpot  Build 10.5.1.160" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta class="swiftype" data-type="string" name="sei_topic" content="Incident Management"><meta class="swiftype" data-type="string" name="sei_topic" content="CSIRTs"><meta name="sei_title" content="Computer Security Incident Response Teams | Software Engineering Institute" class="swiftype" data-type="string"><meta class="swiftype" name="published_at" data-type="date" content="2018-12-03" /><meta class="swiftype" name="sei_date_published" data-type="date" content="2018-12-03" /><meta class="swiftype" name="sei_year_published" data-type="integer" content="2018" /><meta class="swiftype" name="siteDomain" data-type="string" content="www.sei.cmu.edu"><meta property="st:type" content="sei_page" /><meta property="og:url" content="https://www.sei.cmu.edu/education-outreach/computer-security-incident-response-teams/index.cfm"><meta property="og:title" content="Computer Security Incident Response Teams | Software Engineering Institute"><meta property="og:image:alt" content="Computer Security Incident Response Teams | Software Engineering Institute"><meta property="og:type" content="website"><meta property="og:description" content="Learn about computer security incident response teams (CSIRTs) supported by the SEI and about the support the SEI provides."><meta class="swiftype" name="sei_site_priority" data-type="integer" content="3" /><link rel="canonical" href="https://www.sei.cmu.edu/education-outreach/computer-security-incident-response-teams/" /><meta property="og:image:width" content="1400px"><meta property="og:image:height" content="500px"> <title class="swiftype" data-type="string">Computer Security Incident Response Teams | Software Engineering Institute</title> <style id="cs_antiClickjack">body{display:none !important;position:absolute !important;top:-5000px !important;}</style><script type="text/javascript">(function(){var chk=0;try{if(self!==top){var ts=top.document.location.href.split('/');var ws=window.document.location.href.split('/');if(ts.length<3||ws.length<3)chk=1;else if(ts[2]!==ws[2])chk=2;else if(ts[0]!==ws[0])chk=3;}}catch(e){chk=4;}if(chk===0){var stb=document.getElementById("cs_antiClickjack");stb.parentNode.removeChild(stb);}else{top.location = self.location}})();</script> <script>
+var jsDlgLoader = '/education-outreach/computer-security-incident-response-teams/loader.cfm';
+var jsSiteResourceLoader = '/cs-resources.cfm?r=';
+var jsSiteResourceSettings = {canCombine: false, canMinify: false};
+</script>
+<!-- beg (1) PrimaryResources -->
+<link rel="stylesheet" type="text/css" href="/templates/themes/sei-theme/css/bootstrap.min.css"><link rel="stylesheet" type="text/css" href="/templates/themes/sei-theme/css/SEIBootstrap.css"><link rel="stylesheet" type="text/css" href="/templates/themes/sei-theme/css/google-fonts.min.css"><script type="text/javascript" src="/ADF/thirdParty/jquery/jquery-3.2.js"></script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-145208-1"></script><script type="text/javascript" src="https://cdn.sei.cmu.edu/assets/js/googleTags.js"></script><script type="text/javascript" src="/_cs_apps/thirdParty/swiftype/swiftype-autocomplete-jquery-master/jquery.swiftype.autocomplete.js"></script><link rel="stylesheet" type="text/css" href="/_cs_apps/thirdParty/swiftype/swiftype-autocomplete-jquery-master/autocomplete.css"><script type="text/javascript" src="/_cs_apps/thirdParty/swiftype/hogan-2.0.0.js"></script><link rel="stylesheet" type="text/css" href="/_cs_apps/thirdParty/swiftype/swiftype-search-jquery-master/search.css"><link rel="stylesheet" type="text/css" href="/_cs_apps/thirdParty/swiftype/swiftype-search-jquery-master/custom.css"><script type="text/javascript" src="/_cs_apps/thirdParty/swiftype/swiftype-search-jquery-master/jquery.ba-hashchange.min.js"></script><script type="text/javascript" src="/_cs_apps/thirdParty/swiftype/swiftype-search-jquery-master/jquery.swiftype.search.js"></script><script type="text/javascript" src="https://cdn.sei.cmu.edu/assets/js/sei-search.min.js"></script><script type="text/javascript" src="/commonspot/javascript/browser-all.js"></script>
+<!-- end (1) PrimaryResources -->
+<!-- beg (2) SecondaryResources -->
+<link rel="stylesheet" type="text/css" href="/ADF/thirdParty/css/font-awesome/4.7/css/font-awesome.min.css"><link rel="stylesheet" type="text/css" href="/ADF/thirdParty/css/font-awesome/4.7/css/font-awesome-ADF-ext.css">
+<!-- end (2) SecondaryResources -->
+<!-- beg (3) StyleTags -->
+<link rel="stylesheet" href="/commonspot/site-default.css" type="text/css" />
+<!-- end (3) StyleTags -->
+<!-- beg (4) JavaScript -->
+<script type="text/javascript">
+<!--
+var gMenuControlID = 0;
+var menus_included = 0;
+var jsSiteID = 4;
+var jsSubSiteID = 38;
+var js_gvPageID = 2758;
+var jsPageID = 2758;
+var jsPageSetID = 0;
+var jsPageType = 0;
+var jsSiteSecurityCreateControls = 0;
+var jsShowRejectForApprover = 1;
+// -->
+</script><script>
+var jsDlgLoader = '/education-outreach/computer-security-incident-response-teams/loader.cfm';
+var jsSiteResourceLoader = '/cs-resources.cfm?r=';
+var jsSiteResourceSettings = {canCombine: false, canMinify: false};
+</script>
+<!-- end (4) JavaScript -->
+<!-- beg (5) CustomHead -->
+<!-- end (5) CustomHead -->
+<!-- beg (6) TertiaryResources -->
+<!-- end (6) TertiaryResources -->
+<!-- beg (7) authormode_inlinestyles -->
+<link rel="stylesheet" type="text/css" href="/commonspot/commonspot.css" id="cs_maincss">
+<!-- end (7) authormode_inlinestyles -->
+<meta property="og:image" content="https://www.sei.cmu.edu/sei-images/images/rotator-virtual-sei-bg_3_1595.jpg"></head><body class="Use default"><span role="navigation" aria-label="Top of page" id="__topdoc__"></span><script type="text/javascript">
+<!--
+// always-include-ie.js  Copyright 1998-2005 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if (bName == "Netscape")
+{
+if(bVer >= 3)
+bCanRollover=1;
+}
+else if (bName == "Microsoft Internet Explorer")
+{
+if(bVer >= 4)
+bCanRollover=1;
+}
+function ImageSet(imgID,newTarget)
+{
+if (bCanRollover)
+document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+window.status = "";
+}
+function setStatbar(statbar)
+{
+// #22793 - no-op because browsers don't honor the assignment
+//	var strStatbar=unescape(statbar);
+//	window.status=strStatbar;
+}
+function onLoadComplete()
+{
+if( menus_included == 1 )
+document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link,displaylink)
+{
+// links are in one of the following formats:
+// 		cpe_60_0,CP___PAGEID=100
+// 		CPNEWWIN:WindowName^params@CP___
+// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2,1
+// displaylink is the server relative URL or fully qualified URL
+windowname = "";
+windowparams = "";
+// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL;
+pos = link.indexOf("CPNEWWIN:");
+if (pos != -1)
+{
+pos1 = link.indexOf ("^");
+windowname = link.substring (pos+9, pos1);
+pos2 = link.indexOf ("@");
+windowparams = link.substring (pos1 + 1, pos2);
+link = link.substring (pos2 + 1, link.length);
+}
+if( displaylink && displaylink != "" )
+{
+if (windowname == "")
+window.location = displaylink;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (displaylink, windowname, windowparams);
+}
+}
+else
+{
+targetLink = link;
+if (link.indexOf ("CP___") != -1)
+{
+httpPos = -1;
+commaPos = link.indexOf(",");
+if (commaPos != -1)
+{
+targetUrl = link.substr(commaPos + 1);
+if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
+{
+httpPos = commaPos + 1;
+}
+}
+if (httpPos != -1)
+{
+targetLink = link.substr(httpPos);
+commaPos = targetLink.indexOf(",");
+if (commaPos != -1)
+targetLink = targetLink.substr(0, commaPos);
+}
+else
+targetLink = jsDlgLoader + "?csModule=utilities/handle-link&thelink=" + link;
+if (windowname == "")
+window.location = targetLink;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (targetLink, windowname, windowparams);
+}
+}
+else
+{
+//commaPos = link.indexOf(",");
+//if (commaPos != -1)
+//	link = link.substr(0, commaPos);
+if (windowname == "")
+window.location = link;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (link, windowname, windowparams);
+}
+}
+}
+}
+function doWindowOpen(href,name,params)
+{
+if (params != '')
+window.open (href, name, params);
+else
+window.open (href, name);
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2,1
+function FormatWindowParams(windowparams)
+{
+if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 ||
+windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+{
+windowparams = substringReplace(windowparams,':left=',',left=');
+windowparams = substringReplace(windowparams,'left=','left=');
+windowparams = substringReplace(windowparams,':ww=',',width=');
+windowparams = substringReplace(windowparams,'ww=','width=');
+windowparams = substringReplace(windowparams,':hh=',',height=');
+windowparams = substringReplace(windowparams,'hh=','height=');
+windowparams = substringReplace(windowparams,':loc=',',location=');
+windowparams = substringReplace(windowparams,'loc=','location=');
+windowparams = substringReplace(windowparams,':dir=',',directories=');
+windowparams = substringReplace(windowparams,'dir=','directories=');
+windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+windowparams = substringReplace(windowparams,'tb=','toolbar=');
+windowparams = substringReplace(windowparams,':stat=',',status=');
+windowparams = substringReplace(windowparams,':mb=',',menubar=');
+windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+windowparams = substringReplace(windowparams,':rs=',',resizable=');
+}
+return windowparams;
+}
+// -->
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M62LG9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="site-messages hide"></div>
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-search" viewBox="0 0 32 32">
+<title>search</title>
+<path d="M31.008 27.231l-7.58-6.447c-0.784-0.705-1.622-1.029-2.299-0.998 1.789-2.096 2.87-4.815 2.87-7.787 0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12c2.972 0 5.691-1.081 7.787-2.87-0.031 0.677 0.293 1.515 0.998 2.299l6.447 7.58c1.104 1.226 2.907 1.33 4.007 0.23s0.997-2.903-0.23-4.007zM12 20c-4.418 0-8-3.582-8-8s3.582-8 8-8 8 3.582 8 8-3.582 8-8 8z"></path>
+</symbol>
+<symbol id="icon-menu" viewBox="0 0 24 17">
+<title>menu</title>
+<rect width="24" height="3"/><rect y="7" width="24" height="3"/><rect y="14" width="24" height="3"/>
+</symbol>
+<symbol id="icon-carat-right" viewBox="0 0 8 12">
+<title>icon-carat-right</title>
+<polygon points="2 0 0 2 4 6 0 10 2 12 8 6 2 0"/>
+</symbol>
+<symbol id="cmu-wordmark" viewBox="0 0 728.14 64.49">
+<title>cmu-wordmark</title>
+<polygon class="cls-1" points="213.53 18.71 213.53 45.54 218 45.54 218 47.31 200.12 47.31 200.12 45.54 204.59 45.54 204.59 20.6 201.12 20.6 201.12 18.71 213.53 18.71"/><path class="cls-1" d="M36.93,1.38H35.31c-.07,1.38-.79,2-2.17,2C30.38,3.35,26.35,0,21.62,0,8.15,0,0,13.27,0,25S7.75,48.37,20.76,48.37c7.88,0,10.84-3.75,12.94-3.75,1.38,0,1.63,1.22,1.63,2.69h1.78V31.21H35.34l-.39,2.23C34,38.77,29.9,46.63,21.42,46.63,13.93,46.63,11,40.15,11,24.18,11,7.43,15,1.79,21.62,1.79c7.49,0,12.64,8.4,13.69,15.1h1.62Z"/><path class="cls-1" d="M60,39.6c-.13,3.44-2.07,6.25-5.12,6.25-4.41,0-4.6-3.72-4.6-6.56,0-3.44.39-5.7,4.6-6.16L60,32.61ZM71.8,41.74c0,1.68-1.11,3.63-1.84,3.63-1.17,0-1.43-1.23-1.43-3.24V27.22c0-7.39-6.94-9.2-13.61-9.2-6.48,0-11.21,3.17-11.21,6.8A3.91,3.91,0,0,0,47.92,29a3.69,3.69,0,0,0,4-3.89c0-3.3-3.42-3.34-3.42-3.42,0-1.47,3.81-1.94,6-1.94,4.86,0,5.51,1.79,5.51,5.68v5.44l-6.35.52c-5.9.45-12.32,2-12.32,8.75,0,5.64,5.06,7.91,10,7.91,2.53,0,7-1,8.69-4.08a6.65,6.65,0,0,0,6.48,4.08c4.21,0,6.93-2.53,6.93-6.35Z"/><polygon class="cls-1" points="674.53 18.61 674.53 45.45 679 45.45 679 47.22 661.11 47.22 661.11 45.45 665.58 45.45 665.58 20.5 661.11 20.5 661.11 18.61 674.53 18.61"/><path class="cls-1" d="M286,32.45,296.7,1.73h14.81l0,1.83h-4.24v42h4.24v1.79H293.68V45.53H298V4h-.13l-15.1,43.29H281L265.53,3.25h-.13V40c0,5.25,1.36,5.53,4.86,5.53h.2v1.79H259.25V45.53h0c3.7,0,4.39-2.16,4.39-4.95v-37h-4.39V1.69h16.26Z"/><path class="cls-1" d="M321.83,29.87V25.52c0-4.34,1.88-5.7,4.08-5.7,3.11,0,4.08,2.14,4.08,5.7v4.36Zm0,1.76h17.89c-.07-7-6.55-13.74-13.35-13.61-7.65,0-14.26,6.61-14.26,15.36,0,8.43,6.16,14.71,14.45,14.71,8,0,11.93-4.93,13.35-11.34h-1.77c-1.42,6-4.59,9.45-9.64,9.45-6,0-6.68-4.72-6.68-9.13Z"/><path class="cls-1" d="M591.08,29.77V25.41c0-4.34,1.88-5.7,4.08-5.7,3.11,0,4.08,2.14,4.08,5.7v4.36Zm0,1.76H609c-.07-7-6.55-13.74-13.35-13.61-7.65,0-14.26,6.61-14.26,15.36,0,8.43,6.16,14.71,14.45,14.71,8,0,11.93-4.93,13.35-11.34H607.4c-1.42,6-4.59,9.45-9.64,9.45-6,0-6.68-4.72-6.68-9.13Z"/><polygon class="cls-1" points="339.83 1.79 339.83 3.44 344.31 3.44 344.31 45.48 339.83 45.48 339.83 47.32 357.72 47.32 357.72 45.48 353.25 45.48 353.25 1.79 339.83 1.79"/><polygon class="cls-1" points="358.97 1.79 358.97 3.44 363.44 3.44 363.44 45.48 358.97 45.48 358.97 47.32 376.86 47.32 376.86 45.48 372.39 45.48 372.39 1.79 358.97 1.79"/><path class="cls-1" d="M397.43,39.47c0,4.86-2,6.87-5.31,6.87s-5.31-2-5.31-6.87V26.71c0-4.86,2-6.87,5.31-6.87s5.31,2,5.31,6.87Zm10.11-6.41c0-8.88-6.87-15-15.42-15s-15.42,6.16-15.42,15,6.87,15,15.42,15,15.42-6.16,15.42-15"/><path class="cls-1" d="M454.05,3.28h4.53V32.07c0,10,6.93,16.14,17.5,16.14,11.93,0,17.11-6.29,17.11-15.81V7.78c0-3.76,1-4.5,3.37-4.5h1.31V1.54h-11.4V3.28h.82c3.3,0,3.76,1,3.76,4.76V33c0,8.82-5.47,12.83-11,12.83-9.46,0-11.34-6.35-11.9-14.65V3.28h4.25V1.54H454.05Z"/><path class="cls-1" d="M566.34,47.95h1.75l9.59-22.68c1.94-4.24,3-4.77,4.47-4.84h.58V18.65H572.62v1.79h1.23c1.88,0,2.74-.12,2.74,1.56a10.5,10.5,0,0,1-1.1,3.94l-4.4,10.37L564,20.45h3.6V18.65H551.37v1.79h3Z"/><path class="cls-1" d="M638.55,47.95h1.54a2.07,2.07,0,0,1,2.29-1.55c1.69,0,3.7,1.55,7.32,1.55a10.57,10.57,0,0,0,10.37-10.63c0-7.91-5.44-8.49-12.38-9.46-3.63-.52-5.68-1-5.68-3.89,0-3,2.66-4.32,6.16-4.32,4.86,0,6.75,3.22,8.36,7.44h1.53v-9.2h-1.47c0,.78-.67,1.43-1.9,1.43-2.08,0-3.76-1.43-6.74-1.43a9.63,9.63,0,0,0-9.66,9.66c0,8.36,6.35,9.08,11.28,9.66,4.67.58,6.35.88,6.35,3.86,0,3.43-2.85,5-6.35,5-4.92,0-8.31-4.26-9.48-9h-1.54Z"/><polygon class="cls-1" points="549 18.61 549 45.45 553.47 45.45 553.47 47.22 535.58 47.22 535.58 45.45 540.05 45.45 540.05 20.5 535.58 20.5 535.58 18.61 549 18.61"/><path class="cls-1" d="M540.06,9.67a4.46,4.46,0,1,0,4.46-4.47,4.45,4.45,0,0,0-4.46,4.47"/><path class="cls-1" d="M665.57,9.67A4.46,4.46,0,1,0,670,5.2a4.45,4.45,0,0,0-4.46,4.47"/><path class="cls-1" d="M149.79,29.86V25.51c0-4.34,1.88-5.7,4.08-5.7,3.11,0,4.08,2.14,4.08,5.7v4.35Zm0,1.76h17.89c-.07-7-6.55-13.74-13.35-13.61-7.65,0-14.26,6.61-14.26,15.36,0,8.43,6.16,14.71,14.45,14.71,8,0,11.93-4.93,13.35-11.34H166.1c-1.42,6-4.59,9.45-9.64,9.45-6,0-6.68-4.72-6.68-9.13Z"/><path class="cls-1" d="M228,29.86V25.51c0-4.34,1.88-5.7,4.08-5.7s4.08,1.34,4.08,5.7v4.35Zm0,1.76h17.89c-.07-7-6.55-13.74-13.35-13.61-7.65,0-14.26,6.61-14.26,15.36,0,8.43,6.16,14.71,14.45,14.71,8,0,11.93-4.93,13.35-11.34h-1.77c-1.42,6-4.59,9.45-9.64,9.45-6,0-6.68-4.72-6.68-9.13Z"/><path class="cls-1" d="M529.84,45.46V28c0-7-3-10.27-9.14-10.27-4.35,0-8.75,2.49-10.5,6.25h0V18.7H496.79v1.75h4.47v25h-4.47v1.75H514V45.46H510.2V28.36c.56-2.41,3.61-8,7.15-8,2.35,0,3.55.81,3.55,5.16v19.9h-3.7v1.75h17.11V45.46Z"/><path class="cls-1" d="M420.93,18.8v5.25h0c1.75-3.76,6.15-6.25,10.5-6.25,6.16,0,9.14,3.27,9.14,10.27v17.5H445v1.75H427.93V45.57h3.7V25.67c0-4.35-1.19-5.16-3.55-5.16-3.54,0-6.59,5.55-7.15,8v17.1h3.83v1.75H407.52V45.57H412v-25h-4.47V18.8Z"/><path class="cls-1" d="M135.52,45.56V28.06c0-7-3-10.27-9.14-10.27-4.35,0-8.75,2.49-10.5,6.25h0V18.79H102.47v1.75h4.47v25h-4.47v1.75h17.24V45.56h-3.83V28.46c.56-2.41,3.61-8,7.15-8,2.35,0,3.55.81,3.55,5.16v19.9h-3.7v1.75H140V45.56Z"/><path class="cls-1" d="M204.62,9.84a4.46,4.46,0,1,0,4.46-4.47,4.45,4.45,0,0,0-4.46,4.47"/><path class="cls-1" d="M718,18.62V20.5c2.76,0,4,.25,4,1.5a10.5,10.5,0,0,1-1.1,3.94l-4.4,10.37-7-15.81h3.68V18.62H690.81V4.72h-1.17c0,6.87-4.67,13.93-11.21,13.93v1.85h3.44V40.56A7.1,7.1,0,0,0,689,47.95a9.22,9.22,0,0,0,8.62-5l-1.39-.76c-.78,1.17-1.81,2.72-3.43,2.72-1.3,0-2-.92-2-3.06V20.51h9l11.84,27.31-4.1,9.65v0h0a.55.55,0,0,1-.49.32.54.54,0,0,1-.51-.37v0a4.46,4.46,0,1,0-6.3,5.18h0l.14.06.26.12a4.51,4.51,0,0,0,1.63.34c3.76.32,5.69-2.46,7-5.29.3-.64.57-1.29.83-1.9.57-1.37,1.56-3.73,2.73-6.48h0L714,46.82h0l9.12-21.55c1.94-4.24,2.69-4.78,5-4.78h0V18.62Z"/><path class="cls-1" d="M95.94,17.71a9.29,9.29,0,0,0-8.56,6.09h-.13V18.87H74v1.81h4.47V45.62H74V47.4H93.34V45.62h-6v-14c0-4.17,1.09-8.44,3.83-10.79a.53.53,0,0,1,.85.5h0a6.22,6.22,0,0,0-.35,1.85,4.19,4.19,0,0,0,4.41,4.21,4.68,4.68,0,0,0,4.93-4.73C101.06,19.59,99,17.71,95.94,17.71Z"/><path class="cls-1" d="M193.49,19.82c.13,0,.29-.11.39,0a.27.27,0,0,1,0,.35h0a2.78,2.78,0,0,0-.24,2.38,2.74,2.74,0,0,0,2,1.77,2.79,2.79,0,0,0,3.47-2.72,3,3,0,0,0-1.53-2.53,5.29,5.29,0,0,0-2.85-.75,7.68,7.68,0,0,0-4.76,2h0q-.44-.32-.92-.6A14,14,0,0,0,181.83,18c-5.44,0-11.28,3.56-11.28,9.46a8.42,8.42,0,0,0,5.38,7.91v.13A7.08,7.08,0,0,0,169.45,43c0,3.24,1.49,5.7,4.22,6.48v.13c-2.59.71-5.58,3.31-5.58,6.42,0,4.8,5.64,8.49,12.83,8.49,9,0,14.91-6.09,14.91-14,0-6.29-3.11-9.14-9.46-9H175.61c-1.62,0-2.7-.07-2.7-1.82s2.49-3.37,4.95-3.37a4.87,4.87,0,0,1,1.32.39,8.35,8.35,0,0,0,2.66.39c5.57,0,11.54-3.18,11.54-9.33A9.62,9.62,0,0,0,191,21.61a.22.22,0,0,1,0-.33,13.23,13.23,0,0,1,1.69-1.1,3.64,3.64,0,0,1,.76-.35Zm-8.61,29.82c6.48,0,8.2.27,8.2,4.23,0,4.73-5.8,9.07-12.34,9.07-5.83,0-8.63-3.58-8.76-6.69,0-2.85,1.42-4.73,3.17-6.61ZM186,27.51c0,7.53-1.75,7.78-4.08,7.78-2.59,0-4-.5-4-8,0-5.25.58-7.48,4-7.48,3,0,4,.2,4.08,7.66Z"/><path class="cls-1" d="M631.67,17.45a9.29,9.29,0,0,0-8.56,6.09H623V18.61H609.7v1.81h4.47V45.36H609.7v1.77h19.38V45.36h-6v-14c0-4.17,1.09-8.43,3.82-10.78a.53.53,0,0,1,.85.5v0a6.23,6.23,0,0,0-.34,1.83,4.19,4.19,0,0,0,4.41,4.21,4.68,4.68,0,0,0,4.93-4.73C636.79,19.33,634.72,17.45,631.67,17.45Z"/>
+</symbol>
+</defs>
+</svg>
+<nav class="d-md-none sidebar-menu collapse">
+<div id="cs_control_1546" class="cs_control  CS_Element_Tree"> <ul><li class="menu-close"><a href="#" data-toggle="collapse" data-target=".sidebar-menu">&#10005</a></li><li><a href="/about/index.cfm">About</a><a href="#sub-menu-1" data-toggle="collapse" class="sub-menu-icon"><svg class="icon-carat-right"><use xlink:href="#icon-carat-right"></use></svg></a></li><nav class="collapse sub-menu" id="sub-menu-1"> <a href="/about/what-we-do/index.cfm">What We Do</a><a href="/about/leadership/index.cfm">Leadership</a><a href="/about/divisions/index.cfm">Divisions</a><a href="/about/work-with-us/index.cfm">Work with Us</a><a href="/about/collaboration-with-cmu/index.cfm">Collaboration with CMU</a><a href="/about/history-of-innovation-at-the-sei/index.cfm">History of Innovation at the SEI</a> </nav><li><a href="/research-capabilities/index.cfm">Research and Capabilities</a><a href="#sub-menu-2" data-toggle="collapse" class="sub-menu-icon"><svg class="icon-carat-right"><use xlink:href="#icon-carat-right"></use></svg></a></li><nav class="collapse sub-menu" id="sub-menu-2"> <a href="/research-capabilities/artificial-intelligence/index.cfm">Artificial Intelligence</a><a href="/research-capabilities/software-engineering-information-assurance/index.cfm">Software Engineering and Information Assurance</a><a href="/research-capabilities/cybersecurity/index.cfm">Cybersecurity</a><a href="/research-capabilities/systems-verification-validation/index.cfm">System Verification and Validation</a><a href="/research-capabilities/data-modeling-analytics/index.cfm">Data Modeling and Analytics</a><a href="/research-capabilities/mission-assurance/index.cfm">Mission Assurance</a><a href="/research-capabilities/autonomy-counter-autonomy/index.cfm">Autonomy and Counter-Autonomy</a><a href="/research-capabilities/all-work/index.cfm">All Work</a> </nav><li><a href="/publications/index.cfm">Publications</a><a href="#sub-menu-3" data-toggle="collapse" class="sub-menu-icon"><svg class="icon-carat-right"><use xlink:href="#icon-carat-right"></use></svg></a></li><nav class="collapse sub-menu" id="sub-menu-3"> <a href="/publications/annual-reviews/index.cfm">Annual Reviews</a><a href="https://insights.sei.cmu.edu/">Blog</a><a href="https://resources.sei.cmu.edu/library/">Digital Library</a><a href="/publications/podcasts/index.cfm">Podcast Series</a><a href="/publications/software-tools/index.cfm">Software and Tools</a><a href="/publications/technical-papers/index.cfm">Technical Papers</a><a href="https://www.kb.cert.org/vuls">Vulnerability Notes Database</a><a href="/publications/webinars/index.cfm">Webinar Series</a> </nav><li><a href="/news-events/index.cfm">News and Events</a><a href="#sub-menu-4" data-toggle="collapse" class="sub-menu-icon"><svg class="icon-carat-right"><use xlink:href="#icon-carat-right"></use></svg></a></li><nav class="collapse sub-menu" id="sub-menu-4"> <a href="/news-events/news/index.cfm">News</a><a href="/news-events/events/index.cfm">Events</a><a href="/news-events/sei-bulletin/index.cfm">SEI Bulletin</a> </nav><li><a href="/education-outreach/index.cfm">Education and Outreach</a><a href="#sub-menu-5" data-toggle="collapse" class="sub-menu-icon"><svg class="icon-carat-right"><use xlink:href="#icon-carat-right"></use></svg></a></li><nav class="collapse sub-menu" id="sub-menu-5"> <a href="/education-outreach/courses/index.cfm">Courses</a><a href="/education-outreach/credentials/index.cfm">Credentials</a><a href="/education-outreach/workforce-development/index.cfm">Workforce Development</a><a href="/education-outreach/curricula/index.cfm">Curricula</a><a href="/education-outreach/license-sei-materials/index.cfm">License SEI Materials</a><a href="/education-outreach/computer-security-incident-response-teams/index.cfm">Computer Security Incident Response Teams</a> </nav><li><a href="/careers/index.cfm">Careers</a><a href="#sub-menu-6" data-toggle="collapse" class="sub-menu-icon"><svg class="icon-carat-right"><use xlink:href="#icon-carat-right"></use></svg></a></li><nav class="collapse sub-menu" id="sub-menu-6"> <a href="/careers/job-openings/index.cfm">Job Openings</a><a href="/careers/internship-opportunities/index.cfm">Internship Opportunities</a><a href="/careers/working-at-the-sei/index.cfm">Working at the SEI</a> </nav></ul> </div>
+</nav>
+<div class="page-content-wrapper">
+<header class="roof">
+<div class="container d-flex flex-wrap justify-content-between">
+<div class="col-12 col-md-6 d-flex justify-content-between">
+<a class="wordmark" href="https://www.cmu.edu"><span class="sr-only">Carnegie Mellon University</span>    <svg class="cmu-wordmark"><use xlink:href="#cmu-wordmark"></use></svg>
+</a>
+<button class="d-md-none d-sm-inline menu-icon" data-toggle="collapse" data-target=".sidebar-menu">
+<svg class="icon icon-menu d-flex"><use xlink:href="#icon-menu"></use></svg>
+</button>
+</div><!--col-6-->
+<div class="col-12 col-md-5">
+<form action="index.cfm" method="get" name="swiftForm-top" id="swiftForm-top" placeholder="Search for" aria-label="Search for...">
+<div class="roof-search input-group">
+<input type="text" class="search-box form-control form-control" id="stq" name="stq" placeholder="Enter Keywords">
+<span class="input-group-btn">
+<button class="btn btn-secondary" type="submit">
+<svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg>
+</button>
+</span>
+</div><!--roof-search-->
+</form>
+</div><!--col-6-->
+</div><!--container-->
+</header><!--roof-->
+<div class="main-header container">
+<div class="institute">
+<h1><a href="/">Software Engineering Institute</a></h1>
+</div>
+<nav class="d-md-block d-none">
+<div id="cs_control_1525" class="cs_control  CS_Element_Tree">
+<ul class="nav nav-fill">
+<li class="nav-menu-item dropdown-nav"><a href="/about/index.cfm" class="nav-link" target="_self" aria-haspopup="true" aria-expanded="false">About</a><div class="dropdown-nav-menu" aria-labelledby="navbarDropdownMenuLink"> <a href="/about/what-we-do/index.cfm" class="dropdown-item" target="_self" >What We Do</a><a href="/about/leadership/index.cfm" class="dropdown-item" target="_self" >Leadership</a><a href="/about/divisions/index.cfm" class="dropdown-item" target="_self" >Divisions</a><a href="/about/work-with-us/index.cfm" class="dropdown-item" target="_self" >Work with Us</a><a href="/about/collaboration-with-cmu/index.cfm" class="dropdown-item" target="_self" >Collaboration with CMU</a><a href="/about/history-of-innovation-at-the-sei/index.cfm" class="dropdown-item" target="_self" >History of Innovation at the SEI</a> </div></li><li class="nav-menu-item dropdown-nav"><a href="/research-capabilities/index.cfm" class="nav-link" target="_self" aria-haspopup="true" aria-expanded="false">Research and Capabilities</a><div class="dropdown-nav-menu" aria-labelledby="navbarDropdownMenuLink"> <a href="/research-capabilities/artificial-intelligence/index.cfm" class="dropdown-item" target="_self" >Artificial Intelligence</a><a href="/research-capabilities/software-engineering-information-assurance/index.cfm" class="dropdown-item" target="_self" >Software Engineering and Information Assurance</a><a href="/research-capabilities/cybersecurity/index.cfm" class="dropdown-item" target="_self" >Cybersecurity</a><a href="/research-capabilities/systems-verification-validation/index.cfm" class="dropdown-item" target="_self" >System Verification and Validation</a><a href="/research-capabilities/data-modeling-analytics/index.cfm" class="dropdown-item" target="_self" >Data Modeling and Analytics</a><a href="/research-capabilities/mission-assurance/index.cfm" class="dropdown-item" target="_self" >Mission Assurance</a><a href="/research-capabilities/autonomy-counter-autonomy/index.cfm" class="dropdown-item" target="_self" >Autonomy and Counter-Autonomy</a><a href="/research-capabilities/all-work/index.cfm" class="dropdown-item" target="_self" >All Work</a> </div></li><li class="nav-menu-item dropdown-nav"><a href="/publications/index.cfm" class="nav-link" target="_self" aria-haspopup="true" aria-expanded="false">Publications</a><div class="dropdown-nav-menu" aria-labelledby="navbarDropdownMenuLink"> <a href="/publications/annual-reviews/index.cfm" class="dropdown-item" target="_self" >Annual Reviews</a><a href="https://insights.sei.cmu.edu/" class="dropdown-item external-link" target="_blank" >Blog</a><a href="https://resources.sei.cmu.edu/library/" class="dropdown-item" target="_blank" >Digital Library</a><a href="/publications/podcasts/index.cfm" class="dropdown-item" target="_self" >Podcast Series</a><a href="/publications/software-tools/index.cfm" class="dropdown-item" target="_self" >Software and Tools</a><a href="/publications/technical-papers/index.cfm" class="dropdown-item" target="_self" >Technical Papers</a><a href="https://www.kb.cert.org/vuls" class="dropdown-item external-link" target="_self" >Vulnerability Notes Database</a><a href="/publications/webinars/index.cfm" class="dropdown-item" target="_self" >Webinar Series</a> </div></li><li class="nav-menu-item dropdown-nav"><a href="/news-events/index.cfm" class="nav-link" target="_self" aria-haspopup="true" aria-expanded="false">News and Events</a><div class="dropdown-nav-menu" aria-labelledby="navbarDropdownMenuLink"> <a href="/news-events/news/index.cfm" class="dropdown-item" target="_self" >News</a><a href="/news-events/events/index.cfm" class="dropdown-item" target="_self" >Events</a><a href="/news-events/sei-bulletin/index.cfm" class="dropdown-item" target="_self" >SEI Bulletin</a> </div></li><li class="nav-menu-item dropdown-nav"><a href="/education-outreach/index.cfm" class="nav-link" target="_self" aria-haspopup="true" aria-expanded="false">Education and Outreach</a><div class="dropdown-nav-menu" aria-labelledby="navbarDropdownMenuLink"> <a href="/education-outreach/courses/index.cfm" class="dropdown-item" target="_self" >Courses</a><a href="/education-outreach/credentials/index.cfm" class="dropdown-item" target="_self" >Credentials</a><a href="/education-outreach/workforce-development/index.cfm" class="dropdown-item" target="_self" >Workforce Development</a><a href="/education-outreach/curricula/index.cfm" class="dropdown-item" target="_self" >Curricula</a><a href="/education-outreach/license-sei-materials/index.cfm" class="dropdown-item" target="_self" >License SEI Materials</a><a href="/education-outreach/computer-security-incident-response-teams/index.cfm" class="dropdown-item" target="_self" >Computer Security Incident Response Teams</a> </div></li><li class="nav-menu-item dropdown-nav"><a href="/careers/index.cfm" class="nav-link" target="_self" aria-haspopup="true" aria-expanded="false">Careers</a><div class="dropdown-nav-menu dropdown-nav-menu-last" aria-labelledby="navbarDropdownMenuLink"> <a href="/careers/job-openings/index.cfm" class="dropdown-item" target="_self" >Job Openings</a><a href="/careers/internship-opportunities/index.cfm" class="dropdown-item" target="_self" >Internship Opportunities</a><a href="/careers/working-at-the-sei/index.cfm" class="dropdown-item" target="_self" >Working at the SEI</a> </div></li>
+</ul>
+</div>
+</nav>
+</div>
+<div id="cs_control_4174" class="cs_control  CS_Element_Custom">
+<section class="hero-space d-flex" style="background-image: url(/sei-images/images/fullbleed_full_hero_computer-security-incident-response-teams_1400x500_1575.jpg);">
+<h2></h2>
+</section>
+</div>
+<div class="container">
+<nav id="breadcrumbs">
+<div id="cs_control_1570" class="cs_control  CS_Element_LinkBar">
+<ol class="breadcrumb">
+<li class="breadcrumb-item ">
+<a href="/">
+SEI
+</a>
+</li>
+<li class="breadcrumb-item ">
+<a href="/education-outreach/">
+Education and Outreach
+</a>
+</li>
+<li class="breadcrumb-item active">
+Computer Security Incident Response Teams
+</li>
+</ol>
+</div>
+</nav>
+</div>
+<div data-swiftype-index='true'>
+<!-- ---------------------------------------- -->
+<!-- Main content container - one column -->
+<!-- ---------------------------------------- -->
+<div id="cs_control_1383" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_MainContentContainer"> <div id="gridRow_1_1_1383" class="cs_GridRow"> <div id="gridCol_1_1_1_1_1383" class="cs_GridColumn"> <div id="cs_control_14678" class="cs_control  CS_Element_Custom">
+<section class="introduction">
+<div class="container">
+<div id="cs_control_14682" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14682"> <div id="gridRow_1_1_14682" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14682" class="cs_GridColumn"> <div id="cs_control_14683" class="cs_control  CS_Element_Custom">
+<div class="row row justify-content-between
+">
+<main class="col-md-7  col-sm-12 col-12">
+<div id="cs_control_14688" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14688"> <div id="gridRow_1_1_14688" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14688" class="cs_GridColumn">  <div id="cs_control_14690" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><h2>Computer Security Incident Response Teams</h2>
+<p class="lead">When computer security incidents occur, organizations must respond quickly and effectively. The SEI supports the international community of computer security incident response teams (CSIRTs) that protect and defend against cyber attacks.</p></div> </div>  </div> </div> </div> </div>
+</main>
+<aside class="col-md-4  col-sm-12 col-12 ">
+<div id="cs_control_14689" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14689"> <div id="gridRow_1_1_14689" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14689" class="cs_GridColumn">  <div id="cs_control_14691" class="cs_control  CS_Element_Textblock">
+<div class="invert specialCTA bg-red">
+<h4>Contact Us</h4>
+<p>For more information, contact <a href="mailto:info@sei.cmu.edu" id="mailto:info@sei.cmu.edu|">info@sei.cmu.edu</a></p>
+</div>
+</div>  <div id="cs_control_22946" class="cs_control  CS_Element_LinkBar">
+<div class="cta-link-box__no-arrow">
+<ul>
+<li>
+<a href="/education-outreach/computer-security-incident-response-teams/index.cfm#helping">
+Helping Organizations Protect Themselves</a>
+</li>
+<li>
+<a href="/education-outreach/computer-security-incident-response-teams/index.cfm#supporting">
+Supporting CSIRTs</a>
+</li>
+<li>
+<a href="/education-outreach/computer-security-incident-response-teams/index.cfm#community">
+Building an International Network of CSIRTs</a>
+</li>
+</ul>
+</div>
+</div>  </div> </div> </div> </div>
+</aside>
+</div>
+</div>  </div> </div> </div> </div>
+</div>
+</section>
+</div> <div id="cs_control_14692" class="cs_control  CS_Element_Custom">
+<section class="bg-gray generic">
+<div class="container">
+<div id="cs_control_14696" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14696"> <div id="gridRow_1_1_14696" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14696" class="cs_GridColumn"> <div id="cs_control_14697" class="cs_control  CS_Element_Custom">
+<div class="row row justify-content-between
+">
+<main class="col-md-8  col-sm-12 col-12">
+<div id="cs_control_14702" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14702"> <div id="gridRow_1_1_14702" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14702" class="cs_GridColumn">  <div id="cs_control_14704" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><h3>Helping Organizations Protect Themselves</h3>
+<p>We help government and industry organizations develop, operationalize, and improve their incident management capabilities so they can protect themselves from attack and limit the damage and scope of attacks.</p></div> </div>  </div> </div> </div> </div>
+</main>
+<aside class="col-md-3  col-sm-12 col-12 ">
+<div id="cs_control_14703" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14703"> </div> </div>
+</aside>
+</div>
+</div> <div id="cs_control_14713" class="cs_control  CS_Element_Custom">
+<div class="row row justify-content-between
+">
+<main class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_14718" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14718"> <div id="gridRow_1_1_14718" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14718" class="cs_GridColumn">  <div id="cs_control_22587" class="cs_control  padding-bottom-sm"> <img src="/sei-images/images/aside_standard_eval-incident-management_computer-security-incident-response-teams_560x400_2159.jpg" class="img-fluid" title="Evaluating Incident Management &gt; Helping Organizations Protect Themselves &gt; CSIRT" alt="Evaluating Incident Management &gt; Helping Organizations Protect Themselves &gt; CSIRT" width="560" height="400" /> </div>  <div id="cs_control_22583" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead">Evaluating Incident Management Capabilities</p>
+<p>We offer two methods that organizations can use to evaluate and improve their capability to manage computer security incidents:</p>
+<ul>
+<li><a href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=538848" class="CP___PAGEID_176841">Incident Management Capability Metrics</a><br />
+The IMCM provides organizations with a baseline against which they can benchmark their current incident management processes or services.</li>
+<li><a href="http://resources.sei.cmu.edu/library/asset-view.cfm?assetID=91452" rel="nofollow">Mission Risk Diagnostic for Incident Management Capabilities</a><br />
+MRD-IMC is a risk-based approach for assessing how well an incident management function is positioned to achieve its mission and objectives.</li>
+</ul></div> </div>  </div> </div> </div> </div>
+</main>
+<aside class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_14719" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14719"> <div id="gridRow_1_1_14719" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14719" class="cs_GridColumn">  <div id="cs_control_16271" class="cs_control  padding-bottom-sm img-fluid"> <img src="/sei-images/images/aside_standard_csirt-training_computer-security-incident-response-teams_560x400_2159.jpg" class="img-fluid" title="Training &gt; Helping Organizations Protect Themselves &gt; CSIRT" alt="Training &gt; Helping Organizations Protect Themselves &gt; CSIRT" width="560" height="400" /> </div>  <div id="cs_control_14722" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead">Training</p>
+<p>We developed incident handling courses for managers, project leaders, CSIRT staff, and computer forensic professionals. </p>
+<p>These courses are sometimes scheduled as public courses and can also be offered as on-site courses or facilitated workshops.</p>
+<ul>
+<li><a href="/education-outreach/courses/course.cfm?courseCode=P23B">Advanced Topics in Incident Handling</a></li>
+<li><a href="/education-outreach/courses/course.cfm?courseCode=V34">CERT Certificate in Digital Forensics</a></li>
+<li><a href="/education-outreach/courses/course.cfm?courseCode=P25">Creating a Computer Security Incident Response Team</a></li>
+<li><a href="https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=P139">Foundations of Incident Management</a></li>
+<li><a href="/education-outreach/courses/course.cfm?courseCode=P28">Managing Computer Security Incident Response Teams</a></li>
+<li><a href="/education-outreach/courses/course.cfm?courseCode=P68">Overview of Creating and Managing CSIRTs</a></li>
+</ul>
+<p>We can also help you develop training and mentoring programs at your organization. </p>
+<p><a class="link-cta CP___PAGEID_2818" href="/contact-us/index.cfm">Contact us</a></p></div> </div>  </div> </div> </div> </div>
+</aside>
+<aside class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_14720" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14720"> <div id="gridRow_1_1_14720" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14720" class="cs_GridColumn">  <div id="cs_control_16273" class="cs_control  padding-bottom-sm img-fluid"> <img src="/sei-images/images/aside_standard_licensing-sei-materials_computer-security-incident-response-teams_560x400_2159.jpg" class="img-fluid" title="Licensing &gt; Helping Organizations Protect Themselves &gt; CSIRT" alt="Licensing &gt; Helping Organizations Protect Themselves &gt; CSIRT" width="560" height="400" /> </div>  <div id="cs_control_14723" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead">Licensing SEI Training Materials</p>
+<p>Organizations can license our training materials so that they can sponsor SEI-Authorized Insider Threat Vulnerability Assessors to perform CERT Insider Threat Vulnerability Assessments.</p>
+<p><a href="/education-outreach/license-sei-materials/insider-threat-partner-opportunity/index.cfm" class="CP___PAGEID_14401">Become an SEI Partner for Insider Threat</a></p></div> </div>  </div> </div> </div> </div>
+</aside>
+</div>
+</div>  </div> </div> </div> </div>
+</div>
+</section>
+</div> <div id="cs_control_14724" class="cs_control  CS_Element_Custom">
+<section class="generic">
+<div class="container">
+<div id="cs_control_14725" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14725"> <div id="gridRow_1_1_14725" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14725" class="cs_GridColumn"> <div id="cs_control_14727" class="cs_control  CS_Element_Custom">
+<div class="row row justify-content-between
+">
+<main class="col-md-8  col-sm-12 col-12">
+<div id="cs_control_14732" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14732"> <div id="gridRow_1_1_14732" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14732" class="cs_GridColumn">  <div id="cs_control_14734" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><h3>Supporting CSIRTs</h3>
+<p>We support CSIRTS with resources for planning, developing capabilities and skills, networking, and staying up to date. Your participation and feedback make these resources useful and successful. <a href="/contact-us/index.cfm" class="CP___PAGEID_2818">Contact us</a> to get more information or suggest improvements.</p>
+<h4>Case Studies</h4>
+<p>Reading our case studies about national information security teams can be an effective way for incident management teams to get started or improve their performance.</p></div> </div>  </div> </div> </div> </div>
+</main>
+<aside class="col-md-3  col-sm-12 col-12 ">
+<div id="cs_control_14733" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14733"> </div> </div>
+</aside>
+</div>
+</div> <div id="cs_control_14735" class="cs_control  CS_Element_Custom">
+<div class="row row justify-content-between
+">
+<main class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_14740" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14740"> <div id="gridRow_1_1_14740" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14740" class="cs_GridColumn">  <div id="cs_control_16277" class="cs_control  padding-bottom-sm img-fluid"> <img src="/sei-images/images/aside_standard_colCERT_computer-security-incident-response-teams_560x400_2159.jpg" class="img-fluid" title="CSIRT Case Study: Columbia" alt="CSIRT Case Study: Columbia" width="560" height="400" /> </div>  <div id="cs_control_14743" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead">Colombia</p>
+<p>Between 2000 and 2009, Colombia’s Internet penetration grew rapidly from 3% to 45%. The government soon realized that something had to be done about computer security, and after a thorough investigation of different possibilities, colCERT was formed.</p>
+<p><a class="link-cta" href="http://resources.sei.cmu.edu/library/asset-view.cfm?assetID=484981">Download</a></p></div> </div>  </div> </div> </div> </div>
+</main>
+<aside class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_14741" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14741"> <div id="gridRow_1_1_14741" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14741" class="cs_GridColumn">  <div id="cs_control_16278" class="cs_control  padding-bottom-sm img-fluid"> <img src="/sei-images/images/aside_standard_tunCERT_computer-security-incident-response-teams_560x400_2159.jpg" class="img-fluid" title="CSIRT Case Study: Tunisia" alt="CSIRT Case Study: Tunisia" width="560" height="400" /> </div>  <div id="cs_control_14744" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead">Tunisia</p>
+<p>For many organizations, the preparations for dealing with the Y2K threat was a wake-up call that drew attention to Internet security problems. Tunisia’s tunCERT was catalyzed by that event. With limited resources, the team relied on a sophisticated, almost Cartesian development model.</p>
+<p><a class="link-cta" href="http://resources.sei.cmu.edu/library/asset-view.cfm?assetID=484985">Download</a></p></div> </div>  </div> </div> </div> </div>
+</aside>
+<aside class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_14742" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14742"> <div id="gridRow_1_1_14742" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14742" class="cs_GridColumn"> <div id="cs_control_16281" class="cs_control  padding-bottom-sm img-fluid"> <img src="/sei-images/images/aside_standard_financial-institution_computer-security-incident-response-teams_560x400_2159.jpg" class="img-fluid" title="CSIRT Case Study: Financial Institution" alt="CSIRT Case Study: Financial Institution" width="560" height="400" /> </div>  <div id="cs_control_14745" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead">Financial Institution</p>
+<p>The number of computer and software vulnerabilities is growing, and the sophistication of attacks is increasing. Organizations need to develop a comprehensive plan to secure sensitive information and ensure the survivability of their critical infrastructure. This case study shares lessons learned by a financial institution as it developed and implemented both a plan to address security concerns and a CSIRT.</p>
+<p><a class="link-cta" href="http://resources.sei.cmu.edu/library/asset-view.cfm?assetID=484989">Download</a></p></div> </div>  </div> </div> </div> </div>
+</aside>
+</div>
+</div>  </div> </div> </div> </div>
+</div>
+</section>
+</div> <div id="cs_control_23002" class="cs_control  CS_Element_Custom">
+<section class="bg-blue generic">
+<div class="container">
+<div id="cs_control_23006" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_23006"> <div id="gridRow_1_1_23006" class="cs_GridRow"> <div id="gridCol_1_1_1_1_23006" class="cs_GridColumn"> <div id="cs_control_23007" class="cs_control  CS_Element_Custom">
+<div class="row row justify-content-between
+invert">
+<main class="col-md-8  col-sm-12 col-12">
+<div id="cs_control_23008" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_23008"> <div id="gridRow_1_1_23008" class="cs_GridRow"> <div id="gridCol_1_1_1_1_23008" class="cs_GridColumn">  <div id="cs_control_23010" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><h3>Use of the CERT Mark and Graphic</h3>
+<p>CSIRTs that share our commitment to improving the security of networks connected to the Internet may apply for authorization to use the CERT mark in their names and use a special graphic on their website. In this way, they can indicate that their CSIRT is part of a network of teams that provide similar services. See <a href="/education-outreach/computer-security-incident-response-teams/authorized-users/index.cfm">Authorized Users of the CERT Mark</a>.</p>
+<p><a class="link-cta" href="/education-outreach/license-sei-materials/authorization-to-use-cert-mark/index.cfm">Apply to Use Mark</a></p></div> </div>  </div> </div> </div> </div>
+</main>
+<aside class="col-md-3  col-sm-12 col-12 ">
+<div id="cs_control_23009" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_23009"> <div id="gridRow_1_1_23009" class="cs_GridRow"> <div id="gridCol_1_1_1_1_23009" class="cs_GridColumn">  </div> </div> </div> </div>
+</aside>
+</div>
+</div>  </div> </div> </div> </div>
+</div>
+</section>
+</div> <div id="cs_control_14759" class="cs_control  CS_Element_Custom">
+<section class="generic">
+<a name="publications"></a>
+<div class="container">
+<div id="cs_control_14763" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_14763"> <div id="gridRow_1_1_14763" class="cs_GridRow"> <div id="gridCol_1_1_1_1_14763" class="cs_GridColumn">  <div id="cs_control_14765" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><h3>SEI Publications</h3>
+<p>Our extensive collection of resources covers an array of CSIRT topics, including how to create and operate a CSIRT.</p></div> </div>  <div id="cs_control_14764" class="cs_control  CS_Element_Custom">
+<div class="row row justify-content-between">
+<div class="col-12">
+<h2></h2>
+</div>
+</div>
+<div class="row row justify-content-between">
+</div>
+<div class="row row justify-content-between">
+<div class="col-md-6 col-sm-12 col-12 ">
+<div class="m-media-object__listing">
+<div class="media">
+<a class="m-media-object__listing__img__url" href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=485643" target="_blank">
+<img class="mr-3 img-fluid m-media-object__listing__img" width="180" height="180" src="/sei-images/images/genericasset-thumb-1_4621.jpg" alt="Resources for Creating a CSIRT">
+</a>
+<div class="media-body">
+<h4 class="mt-0 m-media-object__listing__title">
+<a class="m-media-object__listing__title__url"  href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=485643" target="_blank">
+<span class="title">Resources for Creating a CSIRT</span>
+</a>
+</h4>
+<h6 class="mt-0 m-media-object__listing__classifier">
+<span>January 18, 2017</span>
+<span class="typeFilter">Collection</span>
+</h6>
+<h5 class="m-media-object__listing__author"></h5>
+<p>
+<span class="description">These resources help you to get started when creating a new CSIRT.</span>
+</p>
+<a href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=485643" target="_blank" class="link-cta"> view</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-sm-12 col-12 ">
+<div class="m-media-object__listing">
+<div class="media">
+<a class="m-media-object__listing__img__url" href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=485642" target="_blank">
+<img class="mr-3 img-fluid m-media-object__listing__img" width="180" height="180" src="/sei-images/images/genericasset-thumb-1_4621.jpg" alt="Resources for Collecting Evidence and Forensics">
+</a>
+<div class="media-body">
+<h4 class="mt-0 m-media-object__listing__title">
+<a class="m-media-object__listing__title__url"  href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=485642" target="_blank">
+<span class="title">Resources for Collecting Evidence and Forensics</span>
+</a>
+</h4>
+<h6 class="mt-0 m-media-object__listing__classifier">
+<span>January 18, 2017</span>
+<span class="typeFilter">Collection</span>
+</h6>
+<h5 class="m-media-object__listing__author"></h5>
+<p>
+<span class="description">This collection of resources provides information about  basic forensic data collection, and forensic methodology.</span>
+</p>
+<a href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=485642" target="_blank" class="link-cta"> view</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row row justify-content-between">
+<div class="col-md-6 col-sm-12 col-12 ">
+<div class="m-media-object__listing">
+<div class="media">
+<a class="m-media-object__listing__img__url" href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=485475" target="_blank">
+<img class="mr-3 img-fluid m-media-object__listing__img" width="180" height="180" src="/sei-images/images/genericasset-thumb-1_4621.jpg" alt="Security and Ontology Resources">
+</a>
+<div class="media-body">
+<h4 class="mt-0 m-media-object__listing__title">
+<a class="m-media-object__listing__title__url"  href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=485475" target="_blank">
+<span class="title">Security and Ontology Resources</span>
+</a>
+</h4>
+<h6 class="mt-0 m-media-object__listing__classifier">
+<span>January 12, 2017</span>
+<span class="typeFilter">Collection</span>
+</h6>
+<h5 class="m-media-object__listing__author"></h5>
+<p>
+<span class="description">This research explores controlled vocabularies, taxonomies, and ontologies to make progress toward a science of cybersecurity.</span>
+</p>
+<a href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=485475" target="_blank" class="link-cta"> view</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-sm-12 col-12 ">
+<div class="m-media-object__listing">
+<div class="media">
+<a class="m-media-object__listing__img__url" href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=505044" target="_blank">
+<img class="mr-3 img-fluid m-media-object__listing__img" width="180" height="180" src="/sei-images/images/genericasset-thumb-1_4621.jpg" alt="Incident Management Resources">
+</a>
+<div class="media-body">
+<h4 class="mt-0 m-media-object__listing__title">
+<a class="m-media-object__listing__title__url"  href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=505044" target="_blank">
+<span class="title">Incident Management Resources</span>
+</a>
+</h4>
+<h6 class="mt-0 m-media-object__listing__classifier">
+<span>September 30, 2014</span>
+<span class="typeFilter">Collection</span>
+</h6>
+<h5 class="m-media-object__listing__author"></h5>
+<p>
+<span class="description">These resources cover many aspects of incident management in CSIRTs, NatCSIRTs, and beyond.</span>
+</p>
+<a href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=505044" target="_blank" class="link-cta"> view</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row row justify-content-between">
+<div class="col-md-6 col-sm-12 col-12 ">
+<div class="m-media-object__listing">
+<div class="media">
+<a class="m-media-object__listing__img__url" href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=302980" target="_blank">
+<img class="mr-3 img-fluid m-media-object__listing__img" width="180" height="180" src="/sei-images/images/genericasset-thumb-1_4621.jpg" alt="Competency Development and Workforce Readiness">
+</a>
+<div class="media-body">
+<h4 class="mt-0 m-media-object__listing__title">
+<a class="m-media-object__listing__title__url"  href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=302980" target="_blank">
+<span class="title">Competency Development and Workforce Readiness</span>
+</a>
+</h4>
+<h6 class="mt-0 m-media-object__listing__classifier">
+<span>August 27, 2014</span>
+<span class="typeFilter">Collection</span>
+</h6>
+<h5 class="m-media-object__listing__author"></h5>
+<p>
+<span class="description">The following publications relate to competency development and workforce readiness.</span>
+</p>
+<a href="https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=302980" target="_blank" class="link-cta"> view</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>  </div> </div> </div> </div>
+</div>
+</section>
+</div> <div id="cs_control_16466" class="cs_control  CS_Element_Custom">
+<section class="bg-gray generic">
+<a name="community"></a>
+<div class="container">
+<div id="cs_control_16470" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16470"> <div id="gridRow_1_1_16470" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16470" class="cs_GridColumn">  <div id="cs_control_16471" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><h3>Building an International Network of CSIRTs</h3>
+<p>Working together is the most effective way to challenge cyber attacks. We foster relationships among over 50 <a href="/education-outreach/computer-security-incident-response-teams/national-csirts/index.cfm" class="CP___PAGEID_2840">National CSIRTs</a> worldwide by providing mechanisms for cooperation and collaboration.</p></div> </div> <div id="cs_control_16472" class="cs_control  pt-34">
+<div class="row row justify-content-between
+">
+<main class="col-md-6   col-sm-12 col-12 ">
+<div id="cs_control_16477" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16477"> <div id="gridRow_1_1_16477" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16477" class="cs_GridColumn"> <div id="cs_control_16479" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><h4>Networking and a Community of Practice</h4>
+<p>A CSIRT with National Responsibility (or &quot;National CSIRT&quot;) is a CSIRT that has been designated by a country or economy to have specific responsibilities in cyber protection for the country or economy. A National CSIRT can be inside or outside of government, but it must be specifically recognized by the government as having responsibility in the country or economy. View a <a href="/education-outreach/computer-security-incident-response-teams/national-csirts/index.cfm" class="CP___PAGEID_2840">complete list of National CSIRTs</a>.</p>
+<p>The National CSIRT Collaboration Wiki helps you cooperate and collaborate with your fellow National CSIRTs to solve common problems, exchange information about technical projects, and discuss other relevant work.</p>
+<p><a class="link-cta" href="https://nationalcsirts.cert.org/">NATIONAL CSIRT COLLABORATION WIKI </a></p></div> </div>  </div> </div> </div> </div>
+</main>
+<aside class="col-md-5  col-sm-12 col-12 order-first order-md-2 ">
+<div id="cs_control_16478" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16478"> <div id="gridRow_1_1_16478" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16478" class="cs_GridColumn">  <div id="cs_control_16610" class="cs_control  img-fluid"> <img src="/sei-images/images/aside_standard_international-network_computer-security-incident-response-teams_560x400_2159.jpg" class="img-fluid" title="Building an International Network of CSIRTs" alt="Building an International Network of CSIRTs" width="560" height="400" /> </div>  </div> </div> </div> </div>
+</aside>
+</div>
+</div> <div id="cs_control_16492" class="cs_control  pt-34">
+<div class="row row justify-content-between
+">
+<main class="col-md-6   col-sm-12 col-12 ">
+<div id="cs_control_16497" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16497"> <div id="gridRow_1_1_16497" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16497" class="cs_GridColumn">  <div id="cs_control_16500" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><h4>Annual NatCSIRT Meeting</h4>
+<p>Since 2006, the CERT Coordination Center has been hosting an annual meeting for National CSIRTs (“NatCSIRTs”) immediately following the <a href="http://first.org/">FIRST Conference</a>. This meeting provides an opportunity for organizations responsible for protecting the security of nations, economies, and critical infrastructures to meet and discuss the unique challenges of their roles.</p>
+<p>Beneficial to both new and established National CSIRTs, the meeting provides a forum for networking and collaboration. Discussions are participantdriven and often focus on current issues, tools, and methods relevant to the National CSIRT community. We also allocate some sessions for CSIRTs representatives to give presentations about their collaborative work or research. If your team is involved in a collaborative or unique project that would be of interest to other National CSIRTs, we encourage you to consider presenting.</p></div> </div>  </div> </div> </div> </div>
+</main>
+<aside class="col-md-5  col-sm-12 col-12 order-first order-md-2 ">
+<div id="cs_control_16498" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16498"> <div id="gridRow_1_1_16498" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16498" class="cs_GridColumn">  <div id="cs_control_16611" class="cs_control  img-fluid"> <img src="/sei-images/images/aside_standard_annual-meeting_computer-security-incident-response-teams_560x400_2159.jpg" class="img-fluid" title="Annual NatCSIRT Meeting" alt="Annual NatCSIRT Meeting" width="560" height="400" /> </div>  </div> </div> </div> </div>
+</aside>
+</div>
+</div>  </div> </div> </div> </div>
+</div>
+</section>
+</div> <div id="cs_control_16501" class="cs_control  CS_Element_Custom">
+<section class="generic">
+<div class="container">
+<div id="cs_control_16505" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16505"> <div id="gridRow_1_1_16505" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16505" class="cs_GridColumn">  <div id="cs_control_20535" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><h3>International Community Resources</h3>
+<p>Our colleagues in the international community offer many valuable resources—including those linked below—on topics such as incident response and CSIRTS.</p></div> </div> <div id="cs_control_16506" class="cs_control  CS_Element_Custom">
+<div class="row row justify-content-between
+">
+<main class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_16511" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16511"> <div id="gridRow_1_1_16511" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16511" class="cs_GridColumn">  <div id="cs_control_174644" class="cs_control  padding-bottom-sm img-fluid"> <img src="/sei-images/images/aside_standard_resource-first_computer-security-incident-response-teams_560x400_2159.jpg" class="img-fluid" title="First.org" alt="First.org" width="560" height="400" /> </div>  <div id="cs_control_174646" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead"><a href="http://first.org/">FIRST.org </a></p>
+<p>The <a href="https://www.first.org/membership/site-visit-v3.0.pdf">FIRST Site Visit Requirements and Assessment</a> contains a list of requirements that can be used in building or benchmarking a team. The <a href="https://www.first.org/education/service-framework">FIRST Services Framework</a> provides information on the capabilities and services a team can provide to its constituents.</p></div> </div>  </div> </div> </div> </div>
+</main>
+<aside class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_16512" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16512"> <div id="gridRow_1_1_16512" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16512" class="cs_GridColumn">  <div id="cs_control_16614" class="cs_control  padding-bottom-sm img-fluid"> <img src="/sei-images/images/aside_standard_resource-geant_computer-security-incident-response-teams_560x400_2159.jpg" class="img-fluid" title="Trans-European Research and Education Networking Association (TERENA)" alt="Trans-European Research and Education Networking Association (TERENA)" width="560" height="400" /> </div>  <div id="cs_control_16515" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead"><a href="http://www.terena.org/activities/tf-csirt/irt-docs.html">GÉANT (formerly TERENA)</a></p>
+<p>GÉANT provides general <a href="http://www.terena.org/activities/tf-csirt/sec-idinfo.html">CERT and system security information</a>, offers resources to help establish new and operate existing IRTs/CERTs, and supplies information about <a href="http://www.terena.org/activities/tf-csirt/sec-idtools.html">tools and software for intrusion detection and system security</a>.</p></div> </div>  </div> </div> </div> </div>
+</aside>
+<aside class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_16513" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16513"> <div id="gridRow_1_1_16513" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16513" class="cs_GridColumn">  <div id="cs_control_16615" class="cs_control  padding-bottom-sm img-fluid"> <img src="/sei-images/images/aside_standard_resource-auscert_computer-security-incident-response-teams_560x400_2159.jpg" class="img-fluid" title="AusCERT " alt="AusCERT " width="560" height="400" /> </div>  <div id="cs_control_16516" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead"><a href=" https://www.auscert.org.au/">AusCERT</a></p>
+<p>Periodically, <a href=" https://www.auscert.org.au/">AusCERT</a> opens its doors to students who seek to augment their education with experience in a functioning CSIRT.</p></div> </div>  </div> </div> </div> </div>
+</aside>
+</div>
+</div> <div id="cs_control_16517" class="cs_control  CS_Element_Custom">
+<div class="row row justify-content-between
+">
+<main class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_16522" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16522"> <div id="gridRow_1_1_16522" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16522" class="cs_GridColumn">  <div id="cs_control_16616" class="cs_control  padding-bottom-sm img-fluid"> <img src="/sei-images/images/aside_standard_resource-enisa_csirts_560x400_2159.jpg" class="img-fluid" title="ENISA logo" alt="ENISA logo" width="560" height="400" /> </div>  <div id="cs_control_16525" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead"><a href="https://www.enisa.europa.eu/topics/csirt-cert-services">ENISA</a></p>
+<p>The European Union Agency for Network and Information Security (ENISA) improves network and information security in the European Union (EU). ENISA helps the European Commission and EU member states meet the requirements of network and information security, including present and future EU legislation.</p></div> </div>  </div> </div> </div> </div>
+</main>
+<aside class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_16523" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16523"> <div id="gridRow_1_1_16523" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16523" class="cs_GridColumn">  <div id="cs_control_16617" class="cs_control  padding-bottom-sm img-fluid"> <img src="/sei-images/images/aside_standard_resource-itu_csirts_560x400_2159.jpg" class="img-fluid" title="ITU logo" alt="ITU logo" width="560" height="400" /> </div>  <div id="cs_control_16526" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead"><a href="https://www.itu.int/en/action/cybersecurity/Pages/default.aspx">ITU</a></p>
+<p>The International Telecommunication Union (ITU) conducts global partner events, publishes the <a href="https://www.itu.int/en/ITU-D/Cybersecurity/Pages/global-cybersecurity-index.aspx">Global Cybersecurity Index</a>, helps National CSIRTs build their capacity, and provides resources on strategy and legislation.</p></div> </div>  </div> </div> </div> </div>
+</aside>
+<aside class="col-md-4  col-sm-12 col-12">
+<div id="cs_control_16524" class="cs_control CS_Element_Schedule"> <div  title="" id="CS_Element_2758_16524"> <div id="gridRow_1_1_16524" class="cs_GridRow"> <div id="gridCol_1_1_1_1_16524" class="cs_GridColumn">  <div id="cs_control_174645" class="cs_control  padding-bottom-sm img-fluid"> <img src="/sei-images/images/aside_standard_resource-ncsc_csirts_560x400_2159.jpg" class="img-fluid" title="NCSC logo" alt="NCSC logo" width="560" height="400" /> </div>  <div id="cs_control_174643" class="cs_control  CS_Element_Textblock"> <div class="CS_Textblock_Text"><p class="lead"><a href="https://www.ncsc.nl/english/organisation">NCSC</a></p>
+<p>The National Cyber Security Centre (NCSC) Netherlands offers insight into cybersecurity threats, interests, and resilience. As part of its work, the NCSC publishes a <a href="https://check.ncsc.nl/static/CSIRT_MK_guide.pdf">CSIRT Maturity Kit</a> to help CSIRTs increase their maturity level quickly and effectively.</p></div> </div>  </div> </div> </div> </div>
+</aside>
+</div>
+</div>  </div> </div> </div> </div>
+</div>
+</section>
+</div>  </div> </div> </div> </div>
+<!-- BEGIN Optimal Workshop Intercept Snippet -->
+<div id='owInviteSnippet' style='position:fixed;right:20px;bottom:20px;width:280px;padding:20px;margin:0;border-radius:6px;background:#333333;color:#EEEEEE;text-align:left;z-index:2200000000;opacity:0;transition:opacity 500ms;-webkit-transition:opacity 500ms;display:none;'><div id='owInviteMessage' style='padding:0;margin:0 0 20px 0;font-size:16px;'>Got a few minutes to help us improve our website?</div><a id='owInviteOk' href='https://ik6yyle0.optimalworkshop.com/treejack/snv35tv0?tag=intercept&utm_medium=intercept' onclick='this.parentNode.style.display="none";' target='_blank' style='color:#00CDED;font-size:16px;font-weight:bold;text-decoration:underline;'>I'll do it</a><a id='owInviteCancel' href='javascript:void(0)' onclick='this.parentNode.style.display="none";' style='color:#EEEEEE;font-size:14px;text-decoration:underline;float:right;'>No thanks</a></div>
+<script>
+var owOnload=function(){
+if(-1==document.cookie.indexOf('ow-intercept-treejack-tu1l55tk')){
+{var o=new XMLHttpRequest;o.onloadend=function()
+{try
+{var o=document.getElementById('owInviteSnippet');
+var date=new Date();date.setMonth(date.getMonth()+1);
+this.response&&JSON.parse(this.response).active===!0 &&
+(document.cookie='ow-intercept-treejack-tu1l55tk=Done;path=/;expires='+date.toUTCString()+';',
+setTimeout(function(){
+o.style.display='block',o.style.opacity=1
+},
+2e3))
+}
+catch(e){}
+},o.open('POST','https://www.optimalworkshop.com/survey_status/treejack/tu1l55tk/active'),o.send()
+}
+}};
+if(window.addEventListener)
+{window.addEventListener('load',function(){
+owOnload();
+});
+}
+else if (window.attachEvent)
+{window.attachEvent('onload',function(){owOnload();}
+);}
+</script>
+<!-- END Optimal Workshop snippet -->
+<!-- ---------------------------------------- -->
+<!-- Main content container - one column - END -->
+<!-- ---------------------------------------- -->
+</div>
+<footer class="pre-footer">
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm"><a href="https://vulcoord.cert.org/VulReport/">Report a Vulnerability to CERT/CC</a></div>
+<div class="col-12 col-sm"><a href="/subscribe-to-sei-bulletin/">Subscribe to SEI Bulletin</a></div>
+<div class="col-12 col-sm"><a href="/legal/request-permission-to-use-sei-material">Request Permission to Use SEI Materials</a></div>
+</div>
+</div>
+</footer>
+<footer class="main-footer">
+<div class="container">
+<div class="row">
+<div class="col-12 col-md footer-info">
+<p>Carnegie Mellon University<br> Software Engineering Institute<br> 4500 Fifth Avenue<br> Pittsburgh, PA 15213-2612<br> <a href="tel:+14122685800">412-268-5800</a><br></p>
+</div><!--col-->
+<div class="col-12 col-md footer-social">
+<div id="cs_control_4764" class="cs_control  CS_Element_LinkBar">
+<ul class="social">
+<li><a href="https://www.facebook.com/SEICMU/" class="facebook" target="_blank"></a></li>
+<li><a href="https://twitter.com/SEInews" class="twitter" target="_blank"></a></li>
+<li><a href="https://www.linkedin.com/company/software-engineering-institute" class="linkedin" target="_blank"></a></li>
+<li><a href="https://www.youtube.com/user/TheSEICMU" class="youtube" target="_blank"></a></li>
+<li><a href="https://itunes.apple.com/us/podcast/software-engineering-institute-sei-podcast-series/id566573552?mt=2" class="itunes" target="_blank"></a></li>
+</ul>
+</div>
+</div><!--col-->
+<div class="col-12 col-md footer-cta">
+<a class="btn btn-outline-light btn-block btn-lg btn-big" href="/contact-us/">Contact Us</a>
+</div><!--col-->
+</div>
+<div class="row">
+<div class="col-md footer-info">
+<div id="cs_control_4762" class="cs_control  CS_Element_LinkBar">
+<ul class="list-unstyled list-inline">
+<li class="list-inline-item">
+<a href="http://www.sei.cmu.edu/locations/index.cfm"  target=""><small>Office Locations</small>
+</a>
+</li>
+<li class="list-inline-item">
+<a href="http://www.sei.cmu.edu/additional-sites-directory/index.cfm"  target=""><small>Additional Sites Directory</small>
+</a>
+</li>
+<li class="list-inline-item">
+<a href="http://www.sei.cmu.edu/legal/index.cfm"  target=""><small>Legal Info</small>
+</a>
+</li>
+<li class="list-inline-item">
+<a href="https://www.cmu.edu/hr/ethics-hotline/"  target=""><small>CMU Ethics Hotline</small>
+</a>
+</li>
+<li class="list-inline-item">
+<a href="http://www.sei.cmu.edu/index.cfm"  target=""><small>www.sei.cmu.edu</small>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md footer-info">
+<p><small class="copyright">&COPY;2019 Carnegie Mellon University</small></p>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script>
+var messages = [];
+$(function() {
+var banners = new BannerMessages({
+messages: messages,
+target: 'site-messages'
+});
+});
+</script>
+<!-- beg (1) PrimaryResources -->
+<script type="text/javascript" src="/templates/themes/sei-theme/js/popper.min.js"></script><script type="text/javascript" src="/templates/themes/sei-theme/js/bootstrap.min.js"></script><script type="text/javascript" src="/commonspot/javascript/lightbox/overrides.js"></script><script type="text/javascript" src="/commonspot/javascript/lightbox/window_ref.js"></script><script type="text/javascript" src="/commonspot/pagemode/always-include-common.js"></script>
+<!-- end (1) PrimaryResources -->
+<!-- beg (2) SecondaryResources -->
+<!-- end (2) SecondaryResources -->
+<!-- beg (3) CustomFoot -->
+<!-- end (3) CustomFoot -->
+<!-- beg (4) TertiaryResources -->
+<script type="text/javascript" src="/templates/themes/sei-theme/js/main.min.js"></script>
+<!-- end (4) TertiaryResources -->
+<script type="text/javascript">
+<!--
+var jsPageContributeMode = 'read';
+var jsPageSessionContributeMode = 'read';
+
+var jsPageAuthorMode = 0;
+var jsPageEditMode = 0;
+
+
+if(!commonspot)
+	var commonspot = {};
+commonspot.csPage = {};
+
+
+	commonspot.csPage.url = '/education-outreach/computer-security-incident-response-teams/index.cfm';
+
+
+commonspot.csPage.id = 2758;
+
+commonspot.csPage.siteRoot = '/';
+commonspot.csPage.subsiteRoot = '/education-outreach/computer-security-incident-response-teams/';
+
+
+// -->
+</script>
+<script type="text/javascript">
+<!--
+	if (typeof parent.commonspot == 'undefined' || typeof parent.commonspot.lview == 'undefined' || typeof parent.commonspot.lightbox == 'undefined')
+		loadNonDashboardFiles();
+	else if (parent.commonspot && typeof newWindow == 'undefined')
+	{
+		var arrFiles = 
+				[
+					{fileName: '/commonspot/javascript/lightbox/overrides.js', fileType: 'script', fileID: 'cs_overrides'},
+					{fileName: '/commonspot/javascript/lightbox/window_ref.js', fileType: 'script', fileID: 'cs_windowref'}
+				];
+		
+		loadDashboardFiles(arrFiles);
+	}
+//-->
+</script>
+</body></html>
